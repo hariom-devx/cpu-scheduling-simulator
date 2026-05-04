@@ -51,7 +51,7 @@ quantum = st.sidebar.number_input("Quantum (RR)", 1, 10, 2)
 # HEADER
 # =========================
 st.title(" CPU Scheduling Simulator")
-st.markdown("### Second Year Project — CPU SCHEDULING SIMULATOR")
+st.markdown("### SECOND YEAR PROJECT — CPU SCHEDULING SIMULATOR")
 
 # =========================
 # INPUT
