@@ -1,3 +1,4 @@
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red)
 # CPU Scheduling Simulator
 
 A web-based CPU Scheduling Simulator built using Python and Streamlit.
